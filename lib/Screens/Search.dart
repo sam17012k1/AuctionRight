@@ -62,7 +62,7 @@ class _SearchState extends State<Search> {
               child: Expanded(
                 child: TextFormField(
                   decoration: InputDecoration(
-                    hintText: 'seach items',
+                    hintText: 'search items',
                     prefixIcon: Icon(Icons.search),
                   ),
                 ),
